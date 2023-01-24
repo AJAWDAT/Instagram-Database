@@ -1,3 +1,6 @@
+CREATE DATABASE Instagram_DB
+;
+
 CREATE TABLE `app_user` (
   `ID` int,
   `first_name` char(20),
